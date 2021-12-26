@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\CClothSimulationTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\CParticleSystemTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\CAssignment4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\CTriMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\CGLTexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\GLCommon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\HLSL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\CClothSimulationTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\CParticleSystemTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\CAssignment4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\CTriMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\CGLTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\GLCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\HLSL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\HLSLEx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\clothsim.cl" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\ParticleSystem.cl" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\Scan.cl" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\forcefield.frag" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\mesh.frag" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\meshtextured.frag" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\particles.frag" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\forcefield.vert" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\mesh.vert" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\meshtextured.vert" />
+    <None Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4\particles.vert" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3A195CD5-867E-346F-B081-7FD5269A6AF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4111B4FA-8709-3E74-B8FD-CDFD30E9EF59}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

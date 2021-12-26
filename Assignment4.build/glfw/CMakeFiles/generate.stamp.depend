@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment4/Assignment4/glfw/CMakeLists.txt
+C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment4/Assignment4/glfw/src/glfw3.pc.in
+C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment4/Assignment4/glfw/src/glfwConfig.cmake.in
+C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment4/Assignment4/glfw/src/glfwConfigVersion.cmake.in
+C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment4/Assignment4/glfw/src/glfw_config.h.in

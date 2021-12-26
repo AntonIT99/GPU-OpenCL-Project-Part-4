@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment4/Assignment4/glew/CMakeLists.txt
+cl : befehlszeile warning D9002: Unbekannte Option "/O0" wird ignoriert.
+  glew.c
+     Bibliothek "C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment4/Assignment4.build/glew/Debug/glew64.lib" und Objekt "C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment4/Assignment4.build/glew/Debug/glew64.exp" werden erstellt.
+  glew64.vcxproj -> C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment4\Assignment4.build\glew\Debug\glew64.dll

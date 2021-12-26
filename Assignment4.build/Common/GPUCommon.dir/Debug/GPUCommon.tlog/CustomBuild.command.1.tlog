@@ -1,0 +1,10 @@
+^C:\USERS\ALPHA\SOURCE\REPOS\TEST_VISUAL_STUDIO\ASSIGNMENT4\COMMON\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/alpha/source/repos/Test_Visual_Studio/Assignment4/Assignment4 -BC:/Users/alpha/source/repos/Test_Visual_Studio/Assignment4/Assignment4.build --check-stamp-file C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment4/Assignment4.build/Common/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
